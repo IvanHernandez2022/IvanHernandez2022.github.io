@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color: rgb(30, 150, 70);
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+form{
+width: 1200px;
+height: 1000px;
+padding:1px;
+border-radius: 10px;
+border-color:lightblue;
+border: outset;
+margin: center;
+}
+
+h1{
+    margin-top: 25px;
+    font-size: 30px;
+    color: black;
+}
+
+h2{
+    font-size: 27px;
+    color: rgb(104, 16, 16);
+}
+
+input{
+    font-size: 25px;
+    background-color: aquamarine;
+    color: blue;
+}
+
+select{
+    font-size:25px;
+    background-color: aquamarine;
+    color: blue;
+}

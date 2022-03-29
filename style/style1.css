@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: black;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+h1{
+    font-size: 70px;
+    color: white; 
+}
+
+h2{
+    font-size: 30px;
+    color: white;
+}
+
+tr{
+    font-size: 60px;
+    background-color: aquamarine;
+    color: blue;
+}
+
+form{
+    margin-top: 20px;
+    width: 300px;
+    height: 200px;
+    padding:1px;
+    border-radius: 10px;
+    border-color:lightblue;
+    border: outset;
+    margin:center;
+}
+
+select{
+    font-size: 20px;
+    background-color: aquamarine;
+    color: blue;
+}
+
+input{
+    font-size: 25px;
+    background-color: aquamarine;
+    color: blue;
+}
